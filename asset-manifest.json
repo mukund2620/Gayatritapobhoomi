@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Gayatritapobhoomi/static/css/main.b7940acd.css",
+    "main.js": "/Gayatritapobhoomi/static/js/main.b4db7e4d.js",
+    "static/media/1677133701513.jpg": "/Gayatritapobhoomi/static/media/1677133701513.a656ad590e8dfea2e80e.jpg",
+    "static/media/1677133701426.jpg": "/Gayatritapobhoomi/static/media/1677133701426.f82017b7af546261575c.jpg",
+    "static/media/1677133701360.jpg": "/Gayatritapobhoomi/static/media/1677133701360.fe6c14ce8dc40346bbf1.jpg",
+    "static/media/Picture1.jpg": "/Gayatritapobhoomi/static/media/Picture1.52058380d86abfcc9682.jpg",
+    "static/media/Picture5.jpg": "/Gayatritapobhoomi/static/media/Picture5.060e5b74e1528aebef39.jpg",
+    "static/media/Picture4.jpg": "/Gayatritapobhoomi/static/media/Picture4.3fcc91312a2b5ed25608.jpg",
+    "static/media/Picture2.jpg": "/Gayatritapobhoomi/static/media/Picture2.a3a9cacba2381f3fdef5.jpg",
+    "static/media/Picture3.jpg": "/Gayatritapobhoomi/static/media/Picture3.c15f9a0414548358b242.jpg",
+    "index.html": "/Gayatritapobhoomi/index.html",
+    "main.b7940acd.css.map": "/Gayatritapobhoomi/static/css/main.b7940acd.css.map",
+    "main.b4db7e4d.js.map": "/Gayatritapobhoomi/static/js/main.b4db7e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7940acd.css",
+    "static/js/main.b4db7e4d.js"
+  ]
+}
