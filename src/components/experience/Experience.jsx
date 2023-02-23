@@ -18,7 +18,7 @@ const experience = () => {
             <article className="experience__details left">
               <div>
                 <h4>• Abhishek Salimath</h4>
-                <small className="text-light">2JH19CS001</small>
+                <small className="text-light">2JH19CS002</small>
               </div>
             </article>
             <article className="experience__details">
@@ -48,7 +48,7 @@ const experience = () => {
             <article className="experience__details">
               <div>
                 <h4>• Maharudra </h4>
-                <small className="text-light">2JH19CS409</small>
+                <small className="text-light">2JH20CS409</small>
               </div>
             </article>
           </div>
